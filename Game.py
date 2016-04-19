@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- 
 
-import IA-Puissance4
+import IAPuissance4
 
 # Game implements the rules of the game.
 

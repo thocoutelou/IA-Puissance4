@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- 
 
-import IA-Puissance4
+import IAPuissance4
 
 # Player is the meta-class that is used by Player_human and Player_Monte_Carlo
 
